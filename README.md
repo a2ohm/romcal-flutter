@@ -1,6 +1,8 @@
 # romcal-flutter
 Proof of concept: integration of Romcal in a Flutter app
 
+![Romcal in a Flutter app](./screenshots/poc_linux.png)
+
 # Romcal 
 
 You need nodejs > 20 and yarn. 
